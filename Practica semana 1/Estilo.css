@@ -1,0 +1,80 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(img/Carretera.jpg);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
+.contenedor img{
+    display:block;
+    width:120px;
+    height: 120px;
+    left: 150px;
+    top:130px;
+    position: absolute;
+    filter:  invert(14%) sepia(99%) saturate(5508%) hue-rotate(295deg) brightness(66%) contrast(110%);
+}
+
+/* Carro morado */
+.Morado img{ 
+    display:block;
+    width:100px;
+    height: 100px;
+    left: 150px;
+    top:100px;
+    position: absolute;
+    filter:  invert(12%) sepia(96%) saturate(7486%) hue-rotate(285deg) brightness(86%) contrast(114%);
+}
+/* carro verde */
+.Verde img{
+    display:block;
+    width:100px;
+    height: 100px;
+    left: 150px;
+    top:170px;
+    position: absolute;
+    filter:  invert(21%) sepia(100%) saturate(3375%) hue-rotate(106deg) brightness(93%) contrast(104%);
+}
+/* carro gris */
+.Gris img{
+    display:block;
+    width:100px;
+    height: 100px;
+    left: 150px;
+    top: 240px;	;
+    position: absolute;
+    filter:   invert(34%) sepia(0%) saturate(1296%) hue-rotate(218deg) brightness(116%) contrast(86%);
+}
+
+/* carro gris */
+.Azul img{
+    display:block;
+    width:100px;
+    height: 100px;
+    left: 150px;
+    top: 310px;	;
+    position: absolute;
+    filter:   invert(71%) sepia(42%) saturate(526%) hue-rotate(174deg) brightness(102%) contrast(96%);
+}
+
+.Rojo img{
+    display:block;
+    width:100px;
+    height: 100px;
+    left: 150px;
+    top: 380px;	;
+    position: absolute;
+    filter:   invert(10%) sepia(99%) saturate(7389%) hue-rotate(359deg) brightness(92%) contrast(118%);
+}
+
+.Amarillo img{
+    display:block;
+    width:100px;
+    height: 100px;
+    left: 150px;
+    top: 450px;	;
+    position: absolute;
+    filter:   invert(83%) sepia(33%) saturate(407%) hue-rotate(336deg) brightness(102%) contrast(104%);
+}
