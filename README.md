@@ -7,8 +7,7 @@
 ### General Info
 ***
 Code of a race of 6 cars that move randomly in a certain interval with message indicating who is the winner and button to reset the race
-### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+
 ## Technologies
 ***
 A list of technologies used within the project:
